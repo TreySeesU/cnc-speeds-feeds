@@ -1,4 +1,3 @@
-```python
 """
 CNC Speeds & Feeds Manager
 Database Initialization Script
